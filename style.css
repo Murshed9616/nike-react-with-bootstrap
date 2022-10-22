@@ -1,0 +1,11 @@
+:root {
+    --font-primary: 'Poppins', sans-serif;
+}
+
+#abu {
+    font-family: var(--font-primary);
+}
+
+#header-bg {
+    background-color: antiquewhite;
+}
